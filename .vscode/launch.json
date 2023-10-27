@@ -1,0 +1,45 @@
+{
+      // Use IntelliSense to learn about possible attributes.
+      // Hover to view descriptions of existing attributes.
+      // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+      "version": "0.2.0",
+      "configurations": [
+            {
+                  "name": "tmi_jobs_search",
+                  "request": "launch",
+                  "type": "dart"
+            },
+            {
+                  "name": "tmi_jobs_search (profile mode)",
+                  "request": "launch",
+                  "type": "dart",
+                  "flutterMode": "profile"
+            },
+            {
+                  "name": "tmi_jobs_search (release mode)",
+                  "request": "launch",
+                  "type": "dart",
+                  "flutterMode": "release"
+            },
+            {
+                  "name": "auth_repo",
+                  "cwd": "local_packages/auth_repo",
+                  "request": "launch",
+                  "type": "dart"
+            },
+            {
+                  "name": "auth_repo (profile mode)",
+                  "cwd": "local_packages/auth_repo",
+                  "request": "launch",
+                  "type": "dart",
+                  "flutterMode": "profile"
+            },
+            {
+                  "name": "auth_repo (release mode)",
+                  "cwd": "local_packages/auth_repo",
+                  "request": "launch",
+                  "type": "dart",
+                  "flutterMode": "release"
+            }
+      ]
+}

@@ -1,0 +1,22 @@
+name: auth_repo
+description: A Dart package to maintain authentication for tmi_jobs_search app
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  http: ^1.1.0
+  jwt_decoder: ^2.0.1
+  hive: ^2.2.3
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+ 
